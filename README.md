@@ -8,7 +8,7 @@ We have two challenges that we'd like for you to complete. The first challenge w
 
 Create an algorithm that can detect if an input string has two letters that are separated by EXACTLY N characters, and returns the two indices if it finds such a case. Otherwise, return None.
 
-Example: If given and input string of "My name is Earl", two input characters "a" and "s", and a numeric value of "4" ... your function should return "[4,9]" because "a" and "s" are separated by EXACTLY 4 characters somewhere in the input string (index 4 "a" & index 9 "s")
+Example: If given an input string of "My name is Earl", two input characters "a" and "s", and a numeric value of "4" ... your function should return "[4,9]" because "a" and "s" are separated by EXACTLY 4 characters somewhere in the input string (index 4 "a" & index 9 "s")
 
 ### Challenge #2: Design a Wardrobe
 
